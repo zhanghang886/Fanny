@@ -2,3 +2,5 @@ zhangsan
 lisi
 zhaowu
 anger
+china
+wangjiu
