@@ -5,3 +5,5 @@ anger
 china
 wangjiu
 zhouyi
+huyiqba
+beizi
